@@ -7,30 +7,20 @@
 - Landing Page
 - Dashboard
 
-UX TEAMS
+### Epic V - Phase I (Overview) - http://bit.ly/1TkgGka
 
-Glossary - http://bit.ly/1sBNNo6
+- List of Dashboardable Charts - http://bit.ly/1XChYXE
 
-Playbook - http://bit.ly/22hh5V7
+- Dashboard Prototype - http://ux-dev.ptsteams.local/
 
-Charter - http://bit.ly/1Tmawus
+- Components  - http://bit.ly/1W4oFCi
 
-Guidelines - http://bit.ly/1sBO0rx
+- UI States - http://bit.ly/27IZ1XZ
 
-Epic V - Phase I (Overview) - http://bit.ly/1TkgGka
+- Design Specs (Zeplin) - https://zpl.io/1lpiLf
 
-List of Dashboardable Charts - http://bit.ly/1XChYXE
+- Mockup (InVision) - https://invis.io/697CC2K7R (password: teams)
 
-Dashboard Prototype - http://ux-dev.ptsteams.local/
-
-Components  - http://bit.ly/1W4oFCi
-
-UI States - http://bit.ly/27IZ1XZ
-
-Design Specs (Zeplin) - https://zpl.io/1lpiLf
-
-Mockup (InVision) - https://invis.io/697CC2K7R (password: teams)
-
-Storyboard (Moqups)  - http://bit.ly/1TsqNQZ
+- Storyboard (Moqups)  - http://bit.ly/1TsqNQZ
 
 
