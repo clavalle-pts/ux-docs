@@ -9,8 +9,10 @@
 
 ### Phase I - Items
 - Design Specs (CSS, Palette & Style Guide) - https://zpl.io/2uEgwQ
-- Palette - https://github.com/mneal-pts/ux-docs/blob/master/epicV_phaseI/sketch-docs/exports/palette.pdf
-- Style Guide - https://github.com/mneal-pts/ux-docs/blob/master/epicV_phaseI/sketch-docs/exports/style_guide.png
+- Palette - [Link](https://github.com/mneal-pts/ux-docs/blob/master/epicV_phaseI/sketch-docs/exports/palette.pdf)
+- Style Guide - [Link](https://github.com/mneal-pts/ux-docs/blob/master/epicV_phaseI/sketch-docs/exports/style_guide.png)
+- Glyph Assets - [Link](https://github.com/mneal-pts/ux-docs/tree/master/epicV_phaseI/sketch-docs/exports/exported_assets)
+- Animated Assets - [Link](https://github.com/mneal-pts/ux-docs/tree/master/epicV_phaseI/sketch-docs/assets)
 
 
 ### Epic V Overview (This Document) - http://bit.ly/1TkgGka
@@ -18,9 +20,7 @@
 - List of Dashboardable Charts - http://bit.ly/1XChYXE
 - Dashboard Prototype - http://ux-dev.ptsteams.local/
 - Components  - http://bit.ly/1W4oFCi
-- Design Charter - https://github.com/mneal-pts/ux-playbook/blob/master/Charter/design-charter.md
-- Glyph Assets - https://github.com/mneal-pts/ux-docs/tree/master/epicV_phaseI/sketch-docs/exports/exported_assets
-- Animated Assets - https://github.com/mneal-pts/ux-docs/tree/master/epicV_phaseI/sketch-docs/assets
+- Design Charter - [Link](https://github.com/mneal-pts/ux-playbook/blob/master/Charter/design-charter.md)
 
 <!-- - UI States - http://bit.ly/27IZ1XZ -->
 
