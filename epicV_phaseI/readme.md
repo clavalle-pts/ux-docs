@@ -19,6 +19,8 @@
 - Dashboard Prototype - http://ux-dev.ptsteams.local/
 - Components  - http://bit.ly/1W4oFCi
 - Design Charter - https://github.com/mneal-pts/ux-playbook/blob/master/Charter/design-charter.md
+- Glyph Assets - https://github.com/mneal-pts/ux-docs/tree/master/epicV_phaseI/sketch-docs/exports/exported_assets
+- Animated Assets - https://github.com/mneal-pts/ux-docs/tree/master/epicV_phaseI/sketch-docs/assets
 
 <!-- - UI States - http://bit.ly/27IZ1XZ -->
 
