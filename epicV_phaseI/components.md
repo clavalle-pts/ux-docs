@@ -25,7 +25,7 @@ viewport. If the viewport is greater than or equal to the sum of the
 main-viewport and the drawer-viewport, then the ideal UI state is open, else the
 ideal UI state is closed.
 
-### Menu Elements
+### Drawer Elements
 - Search
   - Predictive searching across jump-points, employees, students, favorites and
     recent items. Filtering search immediately after each keypress and/or

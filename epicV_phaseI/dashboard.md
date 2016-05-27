@@ -1,9 +1,6 @@
-Note: Styleguide, color-pallete and typeface not final.
-
 ##### Items in Production
 
-- Button Elements
-- Styleguide
+- Workbench
 
 ### Tab Functions
 The new tab functions as a button. Upon clicking the tab, a new tab will appear
